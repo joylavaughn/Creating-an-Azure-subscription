@@ -9,7 +9,6 @@ You only must create your Azure account (Tenant) and Subscription once, though t
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
 
 <h2>Operating Systems Used </h2>
 
